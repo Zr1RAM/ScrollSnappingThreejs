@@ -267,7 +267,7 @@
             'waterEffect'
         ];
 
-        displayWarnings();
+        //displayWarnings();
 
         //easeInOutCubic animation included in the plugin
         window.fp_easings = deepExtend(window.fp_easings, {
